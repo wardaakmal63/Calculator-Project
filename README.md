@@ -32,8 +32,9 @@ To set up the project locally, follow these steps:
 
 To start the calculator, run the following command in your terminal:
 
+
+###### index.js
 ```bash
-node index.js
 Example Usage
 When you start the program, it will display a welcome message with a colorful animation.
 
